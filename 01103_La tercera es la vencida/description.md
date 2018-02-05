@@ -4,10 +4,24 @@ Lo que tiene que hacer este procedimiento, que llamaremos `Triada`, es sencillo:
 
 Por ejemplo `Triada(Rojo, Azul, Verde)` produciría este resultado:
 
-![triada-rav](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-procedimientos/master/images/triada-rav.png)
+<gs-board>
+  GBB/1.0
+    size 3 1
+    cell 0 0 Rojo 1
+    cell 1 0 Azul 1
+    cell 2 0 Verde 1
+    head 2 0
+</gs-board>
 
 mientras que `Triada(Azul, Verde, Rojo)` haría esto otro:
 
-![triada-avr](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-procedimientos/master/images/triada-avr.png)
+<gs-board>
+  GBB/1.0
+    size 3 1
+    cell 0 0 Azul 1
+    cell 1 0 Verde 1
+    cell 2 0 Rojo 1
+    head 2 0
+</gs-board>
 
 > Implementá el procedimiento `Triada`, que tiene que tomar 3 parámetros. 
