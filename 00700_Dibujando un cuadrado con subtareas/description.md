@@ -4,7 +4,7 @@ Perfecto, ¡ya podemos hacer lo que queríamos: construir el cuadrado!
  
 <gs-board>
   GBB/1.0
-   size 4 4
+   size 3 3
    cell 0 0 Negro 1
    cell 0 1 Negro 1
    cell 0 2 Negro 1
