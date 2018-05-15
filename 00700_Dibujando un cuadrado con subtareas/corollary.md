@@ -4,7 +4,7 @@ Además, el código queda mucho más **claro** (cuesta menos trabajo entender qu
 
 Compará tu versión con la que habíamos hecho al principio y vas a ver que no te estamos mintiendo:
 
-```puppet
+```gobstones
 procedure DibujarCuadradoNegroDeLado3() {
   Poner(Negro)
   Mover(Este)
