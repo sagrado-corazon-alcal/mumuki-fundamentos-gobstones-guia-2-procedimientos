@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: Triada
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Triada
   inspection: HasArity:3

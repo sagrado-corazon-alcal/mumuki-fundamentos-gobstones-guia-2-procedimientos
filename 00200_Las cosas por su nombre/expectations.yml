@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: DibujarCuadradoNegroDeLado3
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarCuadradoNegroDeLado3
   inspection: HasBinding
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: HasUsage:DibujarCuadradoNegroDeLado3

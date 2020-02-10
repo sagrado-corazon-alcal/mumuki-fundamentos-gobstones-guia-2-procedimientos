@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: Poner3Verdes
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Poner3Verdes
   inspection: Not:HasBinding
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: HasUsage:Poner3Verdes

@@ -1,3 +1,1 @@
-Genial, ¡**declaraste** e **invocaste** tu primer procedimiento! :clap:
-
-Sigamos con el próximo ejercicio.
+¡Genial! **Declaraste** tu primer procedimiento y luego lo **invocaste** en el programa. :clap:

@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: DibujarLinea3
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DibujarLinea3
   inspection: Not:HasBinding
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: HasUsage:DibujarLinea3
